@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body {
+
+    scrollbar-color: #333 #212529 ;
+    background-color: #212529;
+}
+.dark {
+    background-color: #212529;
+    color: white;
+}
+.dark:focus{
+    background-color: #212529;
+    color: white;
+}
